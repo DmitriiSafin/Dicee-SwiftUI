@@ -7,3 +7,5 @@ ___
 You can just roll the dice and enjoy it!
 
 <img src="https://github.com/DmitriiSafin/Dicee-SwiftUI/blob/main/ReadmeResources/appWork.gif" width="300">
+
+###SwiftUI
